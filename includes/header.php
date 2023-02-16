@@ -10,13 +10,13 @@
 
     <title>WDEV Vagas!</title>
   </head>
-  <body class="bg-dark text-light">
+  <body class="bg-light text-light">
 
     <div class="container">
 
       <div class="jumbotron bg-danger">
-        <h1>WDEV Vagas</h1>
-        <p>Exemplo de CRUD com PHP orientados a objetos</p>
+        <h1>Sistema de Cadastro de Vagas</h1>
+        <p>Exemplo de CRUD com PHP e Mysql com Orientação a Objetos</p>
       </div>
 
 
