@@ -50,6 +50,35 @@
   </section>
 
   <section>
+    <form method="get">
+
+    <div class="row my-4">
+
+    <div class="col">
+      <label>Buscar por Titulo</label>
+      <input type="text" name="busca" class="form-control">
+    </div>
+
+    <div class="col">
+      <label>Status</label>
+      <select name="status" class="form-control">
+        <option value="">Ativa/Inativa</option>
+        <option value="s">Ativa</option>
+        <option value="n">Inativa</option>
+      </select>
+
+
+    </div>
+
+    <div class="col d-flex align-items-end">
+      <button type="submit" class="btn btn-primary">Filtrar</div>
+    </div>
+
+  </form>
+
+  </section>
+
+  <section>
 
     <table class="table bg-light mt-3">
         <thead>
